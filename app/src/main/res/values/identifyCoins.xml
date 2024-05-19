@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--- Identificação das Moedas Brasileiras (identify Brasilian Coins) -->
+    <string name="fiveCents">¢5</string>
+    <string name="tenCents">¢10</string>
+    <string name="twentyFiveCents">¢25</string>
+    <string name="fiftyCents">¢50</string>
+    <string name="oneReal">R$1</string>
+</resources>

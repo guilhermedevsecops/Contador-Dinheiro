@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Identificação de Notas Brasileiras -->
+    <string name="twoReal">R$2</string>
+    <string name="fiveReal">R$5</string>
+    <string name="tenReal">R$10</string>
+    <string name="twentyReal">R$20</string>
+    <string name="fiftyReal">R$50</string>
+    <string name="oneHundredReal">R$100</string>
+    <string name="twoHundredReal">R$200</string>
+</resources>

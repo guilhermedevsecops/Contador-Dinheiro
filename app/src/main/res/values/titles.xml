@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Titulos -->
+    <string name="titleProgram">CONTADOR DE MOEDAS</string>
+    <string name="titleCoins">MOEDAS</string>
+    <string name="titleGrades">NOTAS</string>
+</resources>

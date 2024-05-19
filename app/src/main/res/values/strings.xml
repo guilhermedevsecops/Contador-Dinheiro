@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContadorDinheiro</string>
+    <string name="selecao"></string>
+    <string name="quantidade">Qnt.</string>
+    <string name="values">Valores</string>
+    <string name="geralTotal">Valor Total:</string>
+    <string name="coinsTotal">Total Moedas:</string>
+    <string name="gradesTotal">Total Notas:</string>
+    <string name="developer">by: Guilherme Henrique de Sousa Jesus</string>
+</resources>
